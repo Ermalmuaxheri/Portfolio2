@@ -1,2 +1,2 @@
 # Portfolio2
-eem-portfolio.netlify.app
+http://www.eem-portfolio.netlify.app
